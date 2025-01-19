@@ -374,7 +374,7 @@ function App() {
 
 
     {/* OTHERS VS RESNET */}
-    <div className="w-full text-white py-16 px-6 md:px-16 flex flex-col items-center">
+    <div className=" px-8 w-full text-white py-16  md:px-16 flex flex-col items-center">
   <h2 className="text-2xl md:text-3xl font-bold mb-8 text-center">
     Other Agencies - ResNet Solutions
   </h2>
