@@ -12,14 +12,7 @@ function App() {
 
   return (
     <div className="bg-[#08081B] transition-all duration-300 text-white flex flex-col items-center py-12 ">
-      <header className="w-full px-2 md:px-96 flex justify-between items-center mb-10">
-        <div className="text-2xl font-bold flex items-center">
-          <span className="text-red-700">Res</span>Net Solutions
-        </div>
-        <button className="bg-transparent border border-red-700 text-white font-bold px-4 py-2 rounded-md hover:bg-red-500 transition-all duration-300 hover:text-white">
-          Book my Free Strategy Call
-        </button>
-      </header>
+     
       <div className="max-w-3xl mx-5 bg-gradient-to-r from-[#182442] via-[#0F172A] to-[#182442] border-t border-r border-l border-gray-500 rounded-2xl p-8 md:p-20 text-center">
         <h1 className="text-4xl font-bold mb-4 leading-snug">
           Scale to <span className="text-red-700">5 lakhs</span> monthly in 90 days with our guaranteed client acquisition system
