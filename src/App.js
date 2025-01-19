@@ -380,7 +380,7 @@ function App() {
   </h2>
 
   {/* Table */}
-  <div className="w-full max-w-5xl overflow-hidden rounded-lg border border-gray-600">
+  <div className=" max-w-5xl overflow-hidden rounded-lg border border-gray-600">
     <table className="w-full text-left border-collapse">
       {/* Table Header */}
       <thead>
